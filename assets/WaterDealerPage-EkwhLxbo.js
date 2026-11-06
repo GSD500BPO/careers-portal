@@ -1,4 +1,4 @@
-import{w as f,v as b,r as v,j as a,N as w,e as S,a6 as k,F as q}from"./index-Dbzg3oqJ.js";import{m as A,e as C}from"./markdownLite-CvXCwQh5.js";const D=`By Ariel Hanasi, Director of Operations
+import{w as f,v as b,r as v,j as a,N as w,e as S,a6 as k,F as q}from"./index-qNv3Zl6R.js";import{m as A,e as C}from"./markdownLite-CvXCwQh5.js";const D=`By Ariel Hanasi, Director of Operations
 
 Last updated: 2026-10-26
 
