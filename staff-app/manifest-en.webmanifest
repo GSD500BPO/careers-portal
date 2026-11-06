@@ -1,0 +1,19 @@
+{
+  "id": "/talent/portal",
+  "name": "GSD Staff",
+  "short_name": "GSD Staff",
+  "description": "GSD 500 BPO staff app: shifts, hours, meetings, commissions and your marketplace profile.",
+  "lang": "en",
+  "start_url": "/talent/portal?source=pwa",
+  "scope": "/talent/portal",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "/staff-app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/staff-app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/staff-app/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "/es/talento/portal",
+  "name": "GSD Staff",
+  "short_name": "GSD Staff",
+  "description": "App del equipo GSD 500 BPO: turnos, horas, citas, comisiones y tu perfil del marketplace.",
+  "lang": "es",
+  "start_url": "/es/talento/portal?source=pwa",
+  "scope": "/es/talento/portal",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "/staff-app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/staff-app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/staff-app/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
